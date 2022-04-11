@@ -1,3 +1,3 @@
-module github.com/dim13/crc24
+module github.com/pedroalbanese/crc24
 
 go 1.12
